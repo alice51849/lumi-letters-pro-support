@@ -1,6 +1,6 @@
-# Lumi Letters Pro: ABC Phonics support
+# Lumi Letters Pro: Kids Phonics support
 
-> Official support, help and privacy pages for Lumi Letters Pro: ABC Phonics, an iOS app by Lumi Studio.
+> Official support, help and privacy pages for Lumi Letters Pro: Kids Phonics, an iOS app by Lumi Studio.
 
 - App Store: https://apps.apple.com/app/id6778491147
 - Platform: iOS
