@@ -14,11 +14,4 @@
 - [Support and contact](https://open.cait518.cc/lumi-letters-pro-support/support.html)
 - [Privacy policy](https://open.cait518.cc/lumi-letters-pro-support/privacy.html)
 
-## About the app (AI-readable Q&A pages)
-
-- [Lumi Letters Pro: Kids Phonics — about this app (en): what it is, who it is for, pricing, comparison and FAQ](https://open.cait518.cc/lumi-letters-pro-support/about-lumi-letters-pro-app.html)
-- [Lumi Letters Pro: ABC Phonics — about this app (ar-SA): what it is, who it is for, pricing, comparison and FAQ](https://open.cait518.cc/lumi-letters-pro-support/about-lumi-letters-pro-app.ar-SA.html)
-- [Lumi Letters Pro: ABC Phonics — about this app (tr): what it is, who it is for, pricing, comparison and FAQ](https://open.cait518.cc/lumi-letters-pro-support/about-lumi-letters-pro-app.tr.html)
-- [Lumi 字母星球 Pro：ABC啟蒙 — about this app (zh-Hant): what it is, who it is for, pricing, comparison and FAQ](https://open.cait518.cc/lumi-letters-pro-support/about-lumi-letters-pro-app.zh-Hant.html)
-
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
